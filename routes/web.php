@@ -14,6 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/{any?}')->where('any','^(?!api).*$');
-Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
