@@ -47,6 +47,9 @@
                     <td class="table-success"><a href="https://apinhaxe.herokuapp.com/api/posts" class="btn btn-primary">Thử api</a></td>
                     </tr>
                 </tbody>
+                <br>
+                <br>
+                <h1>Hello world</h1>
                 </table>
         </div>
     </body>
